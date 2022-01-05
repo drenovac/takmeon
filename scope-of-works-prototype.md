@@ -52,7 +52,7 @@
 | Save Money| || Is this a driver given the ++ service being offered?. If the solution is so superior, why cut price?|
 | Better Matching|Increased project performance and job satisfaction |
 | Greater Access| - To a wider range of skill sets|
-| | |
+| | |||
 
 # OUR SOLUTION - Workers
 
@@ -62,11 +62,11 @@
 | Look Their best|With resume builder|| Can't image the competition doesn't have this.<br>N2S: this is actually B/S given that we need to skills match - you don't do it against a .pdf resume?<br>perhaps make this a differentitator - Resumes are so "old fashioned, and void of value"|
 | Greate Access|To more jobs meaning less time out of work||Perhaps if we're the bees knees of jobs (in this space)|
 | Grow Reputation|||This is a piece of data that should reside at the Portal, enabling the portal to be the value proposition between employer and employee|
-| | |
+| | |||
 
 # PRODUCT features
 
-|||||
+||||||
 |--|--|--|--|----|
 |WORKER SEARCH|- Employers can do a worker search of the live database<br>- and send out a request to multiple candidates of their choice|||
 |WORKER STATUS|- The status of the worker is always visible on their screen so it is constantly updated.<br>- This status lets the potential employer know what their current situation is when performing worker searches|||
