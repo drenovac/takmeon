@@ -1,1 +1,2 @@
-[Click here to go to main docs](./contents.md)
+[Click here for provided docs](./contents.md)
+[Click here for Scope of works - Prototype](./scope-of-works-prototype.md)
