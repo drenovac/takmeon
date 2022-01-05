@@ -45,6 +45,7 @@
 |NEWSPAPER CLASSIFIEDS | |N/A|
 
 # OUR SOLUTION - Employers
+
 | | | | |
 |----|----|---- |---- |
 |Save Time|- Instant<br>- direct access to a large<br>- up-to-date<br>- high quality<br>-vetted talent pool |- How?<br>- Everyone will use this portal?<br>- How will we manage this?<br>- As above<br>-As above| TODO: Enter other Q&A | XX|
@@ -54,6 +55,7 @@
 | | |
 
 # OUR SOLUTION - Workers
+
 | | | | |
 |----|----|---- |---- |
 |Save Time|Easy onboarding process and find suitable employers and work, even while sleeping!|
@@ -63,6 +65,7 @@
 | | |
 
 # PRODUCT features
+
 |||||
 |--|--|--|--|----|
 |WORKER SEARCH|- Employers can do a worker search of the live database<br>- and send out a request to multiple candidates of their choice|||
