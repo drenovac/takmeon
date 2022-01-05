@@ -47,7 +47,7 @@
 
 ## OUR SOLUTION - Employers
 
-| | | | |
+|Title|Commentary | |
 |----|----|---- |---- |
 |Save Time|- Instant<br>- direct access to a large<br>- up-to-date<br>- high quality<br>-vetted talent pool |- How?<br>- Everyone will use this portal?<br>- How will we manage this?<br>- As above<br>-As above| TODO: Enter other Q&A | XX|
 | Save Money| || Is this a driver given the ++ service being offered?. If the solution is so superior, why cut price?|
@@ -67,7 +67,7 @@
 
 ## PRODUCT features
 
-||||
+|Title|Commentary | |
 |--|---|--|
 |WORKER SEARCH|- Employers can do a worker search of the live database<br>- and send out a request to multiple candidates of their choice||
 |WORKER STATUS|- The status of the worker is always visible on their screen so it is constantly updated.<br>- This status lets the potential employer know what their current situation is when performing worker searches||
@@ -83,7 +83,7 @@
 
 ## Out of Scope
 
-|||
+|Title|Commentary |
 |---|---|
 |IN APP MESSAGING|Wouldn't even go there. This scenario will never happen|
 |||
