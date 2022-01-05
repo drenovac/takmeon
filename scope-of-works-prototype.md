@@ -1,26 +1,26 @@
 # MAIN HEADING
-- Scope : "create the world’s largest digital marketplace for recruitment and staffing."
-
-- Employers can find the right personnel to manage projects more efficiently. Workers can easily search for jobs, manage their resume, and schedules. It’s a two-way dynamic marketplace
-
-
+> - Scope : "create the world’s largest digital marketplace for recruitment and staffing."
+>
+> - Employers can find the right personnel to manage projects more efficiently. Workers can easily search for jobs, manage their resume, and schedules. It’s a two-way dynamic marketplace
+>
+>
 - OUR SCALABLE PLATFORM CONNECTS EMPLOYERS WITH WORKERS
-    - By creating a self-maintaining, live database of workers and giving direct access to employers, 
-    - we create significant efficiencies in the job market that we can provide at a fraction of the competition’s cost.
+>    - By creating a self-maintaining, live database of workers and giving direct access to employers, 
+>    - we create significant efficiencies in the job market that we can provide at a fraction of the competition’s cost.
 
-<hr>
 
-- The document "Takmeon Pitch 2020" speaks to a distant future, the immediate requirement is to prototype the dream.
-- The goal is to create a prototype suitable to present in front on prospective clients, to fully define a number of smaller MVP stages which can serve as a solid foundation to understand the requirements as well as commitment required to achieve it.
+> 
+> - The document "Takmeon Pitch 2020" speaks to a distant future, the immediate requirement is to prototype the dream.
+> - The goal is to create a prototype suitable to present in front on prospective clients, to fully define a number of smaller MVP stages which can serve as a solid foundation to understand the requirements as well as commitment required to achieve it.
 
 ## Scope of Works for Prototype
 
-1. Portal
-  - find and recruit the right people
-  - speed to find perfect candidates
-1. App Engine
-1. Search Engine
-
+> 1. Portal
+>>  - find and recruit the right people
+>>  - speed to find perfect candidates
+> 2. App Engine
+> 3. Search Engine
+> &nbsp;
 ## Comments from PitchDeck
 
 | Item   |Comments   |What's required to improve upon shortfall     |

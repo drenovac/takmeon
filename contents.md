@@ -1,15 +1,15 @@
 # Initial Directory Contents (provided info)
 
-These are the file details provided for an initial overview of this project.
-
-- [Brad Stebbing scope of works & prelim quotation for MVP](BS Proposal - Takmeon Development from brad.pdf)
-- [Images Directory](rereadywhenyouare___ (2))
-- [Business Requirements doc draft - Steve Keast](Takmeon business requirements by SK v3 draft.docx)
-- [Data Relatioonship Diagram - Steve Keast](Takmeon data structure.pptx)
-- [Pitchdeck - Investment Opportunity (April 2020)](Takmeon Pitch 2020.pdf)
-- [Takmeon Prototype Data Descriptions - Steve Keast](Takmeon record description by sk V2 draft.docx)
-- [App GUI draft workflow](Takmeon Roadmap.pdf)
-
+> These are the file details provided for an initial overview of this project.
+>
+> - [Brad Stebbing scope of works & prelim quotation for MVP](BS Proposal - Takmeon Development from brad.pdf)
+> - [Images Directory](rereadywhenyouare___ (2))
+> - [Business Requirements doc draft - Steve Keast](Takmeon business requirements by SK v3 draft.docx)
+> - [Data Relatioonship Diagram - Steve Keast](Takmeon data structure.pptx)
+> - [Pitchdeck - Investment Opportunity (April 2020)](Takmeon Pitch 2020.pdf)
+> - [Takmeon Prototype Data Descriptions - Steve Keast](Takmeon record description by sk V2 draft.docx)
+> - [App GUI draft workflow](Takmeon Roadmap.pdf)
+> &nbsp;
 # Document Summary
 
 
