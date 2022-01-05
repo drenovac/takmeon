@@ -86,11 +86,12 @@
 |Title|Commentary |
 |---|---|
 |IN APP MESSAGING|Wouldn't even go there. This scenario will never happen|
-|||
+||__If you want to be a portal, to be of continuing value, you must be the perpetual conduit for all communications between employer and employee.<br>The comment has been made elsewhere that you'd allow the employer to filter and source the correct staff, and then enjoin in 'email'.<br>No, you must be the 'drinking hole' where employer and employee meet every time they want to connect.__|
 
 # Competition
 
 - what makes this solution better than current market leaders?
+- __I have not seen any comments to qualify this remark. What's wrong with the encumbent competition, that we intend to 'disrupt' and be some much better. What's our 30sec elevator pitch?__
 
 # Competitive Advantage
 
