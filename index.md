@@ -1,3 +1,1 @@
-ECHO is on.
-
-in index.md
+[Click here to go to main docs](./contents.md)
