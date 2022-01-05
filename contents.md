@@ -10,7 +10,7 @@ These are the file details provided for an initial overview of this project.
 - [Takmeon Prototype Data Descriptions - Steve Keast](Takmeon record description by sk V2 draft.docx)
 - [App GUI draft workflow](Takmeon Roadmap.pdf)
 
-# Comments on provided information
+# Document Summary
 
 
 |  Document | Observations   |

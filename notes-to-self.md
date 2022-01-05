@@ -1,4 +1,4 @@
-# scratch pad whilst working thru this
+# Scratch pad whilst working thru this
 
 |Your Point | Detail   |
 |---|---|

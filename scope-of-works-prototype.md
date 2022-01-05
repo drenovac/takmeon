@@ -1,4 +1,5 @@
-# Scope : "create the world’s largest digital marketplace for recruitment and staffing."
+# MAIN HEADING
+- Scope : "create the world’s largest digital marketplace for recruitment and staffing."
 
 - Employers can find the right personnel to manage projects more efficiently. Workers can easily search for jobs, manage their resume, and schedules. It’s a two-way dynamic marketplace
 
@@ -20,7 +21,7 @@
 1. App Engine
 1. Search Engine
 
-### Comments from PitchDeck
+## Comments from PitchDeck
 
 | Item   |Comments   |What's required to improve upon shortfall     |
 |---|---|-----|
@@ -44,7 +45,7 @@
 |CURRENT EMPLOYEE REFERRALS | |N/A|
 |NEWSPAPER CLASSIFIEDS | |N/A|
 
-# OUR SOLUTION - Employers
+## OUR SOLUTION - Employers
 
 | | | | |
 |----|----|---- |---- |
@@ -54,7 +55,7 @@
 | Greater Access| - To a wider range of skill sets|
 | | |||
 
-# OUR SOLUTION - Workers
+## OUR SOLUTION - Workers
 
 | | | | |
 |----|----|---- |---- |
@@ -64,7 +65,7 @@
 | Grow Reputation|||This is a piece of data that should reside at the Portal, enabling the portal to be the value proposition between employer and employee|
 | | |||
 
-# PRODUCT features
+## PRODUCT features
 
 ||||||
 |--|--|--|--|----|
@@ -81,7 +82,7 @@
 
 
 
-## Scope of Works (out of scope)
+## Out of Scope
 
 |||||
 |---|---|---|---|---|
@@ -90,7 +91,7 @@
 
 # Competition
 
-## what makes this solution better than current market leaders?
+- what makes this solution better than current market leaders?
 
 # Competitive Advantage
 
