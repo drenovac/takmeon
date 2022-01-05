@@ -14,7 +14,7 @@ These are the file details provided for an initial overview of this project.
 
 
 |  Document | Observations   |
-|---|---|
+|---|--- |
 |   |   |
 |[Brad Stebbing scope of works & prelim quotation for MVP]|1. One would never host personnel related data off-shore|
 |Images Directory|13 sample UI forms wire-framed as to the possible layout and content of necessary forms|
