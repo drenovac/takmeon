@@ -57,8 +57,8 @@
 
 ## OUR SOLUTION - Workers
 
-| | | | |
-|----|----|---- |---- |
+|Title|Commentary | |
+|----|----|------ |
 |Save Time|Easy onboarding process and find suitable employers and work, even while sleeping!|
 | Look Their best|With resume builder|| Can't image the competition doesn't have this.<br>N2S: this is actually B/S given that we need to skills match - you don't do it against a .pdf resume?<br>perhaps make this a differentitator - Resumes are so "old fashioned, and void of value"|
 | Greate Access|To more jobs meaning less time out of work||Perhaps if we're the bees knees of jobs (in this space)|
@@ -67,27 +67,26 @@
 
 ## PRODUCT features
 
-||||||
-|--|--|--|--|----|
-|WORKER SEARCH|- Employers can do a worker search of the live database<br>- and send out a request to multiple candidates of their choice|||
-|WORKER STATUS|- The status of the worker is always visible on their screen so it is constantly updated.<br>- This status lets the potential employer know what their current situation is when performing worker searches|||
-|POST A JOB|Employers can post a job to the jobs board for free as part of their subscription|||
+||||
+|--|---|--|
+|WORKER SEARCH|- Employers can do a worker search of the live database<br>- and send out a request to multiple candidates of their choice||
+|WORKER STATUS|- The status of the worker is always visible on their screen so it is constantly updated.<br>- This status lets the potential employer know what their current situation is when performing worker searches||
+|POST A JOB|Employers can post a job to the jobs board for free as part of their subscription||
 |DIGITAL SIGN-OFF|Employers can sign-off on timesheets that are submitted through the app with the click of a button||TODO: who is the employer?<br>This is describing a sub-contractor|
-|JOBSBOARD|- Workers can search the jobsboard for current listings.<br>-The employers can post jobs for free as part of their subscription,<br> - making it a much cheaper option than jobs websites.|||
+|JOBSBOARD|- Workers can search the jobsboard for current listings.<br>-The employers can post jobs for free as part of their subscription,<br> - making it a much cheaper option than jobs websites.||
 |FREE RESUME BUILDER|||TODO: I wouldn't even go there, as per my earlier comments (see above)!|
-|CERTIFICATION VAULT|- A digital capturing and storage functionality for certifications that the workers have on record.<br> - A simple share button grants access to potential employers, simplifying existing onboarding processes.|||
+|CERTIFICATION VAULT|- A digital capturing and storage functionality for certifications that the workers have on record.<br> - A simple share button grants access to potential employers, simplifying existing onboarding processes.||
 |SIMPLE TIMESHEETS|Simple timesheets with digital sign-off provide an instant record of timekeeping, without the inconsistencies that arise from manual timesheets||TODO: Actually has to be anything but. Perhaps simple to use, but it must be powerfull enough to provide any manner of content, the least of which is clock on/off data.|
-|||||
-
+|||
 
 
 
 ## Out of Scope
 
-|||||
-|---|---|---|---|---|
-|IN APP MESSAGING|||Wouldn't even go there. This scenario will never happen|
-|||||
+|||
+|---|---|
+|IN APP MESSAGING|Wouldn't even go there. This scenario will never happen|
+|||
 
 # Competition
 
@@ -95,7 +94,7 @@
 
 # Competitive Advantage
 
-|||||
+|Title|Commentary|||
 |---|---|---|---|---|
 |1ST MOVER ADVANTAGE|The first significant app in the blue collar recruitment industry||TODO: is it?|
 |EASE OF USE|Simple user interface, designed for novice users|||
