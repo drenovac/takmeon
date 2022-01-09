@@ -91,12 +91,12 @@
 # Competition
 
 - what makes this solution better than current market leaders?
-- __I have not seen any comments to qualify this remark. What's wrong with the encumbent competition, that we intend to 'disrupt' and be some much better. What's our 30sec elevator pitch?__
+    - __I have not seen any comments to qualify this remark. What's wrong with the encumbent competition, that we intend to 'disrupt' and be some much better. What's our 30sec elevator pitch?__
 
 # Competitive Advantage
 
-|Title|Commentary|||
-|---|---|---|---|---|
+|Title|Commentary||
+|---|---|---|
 |1ST MOVER ADVANTAGE|The first significant app in the blue collar recruitment industry||TODO: is it?|
 |EASE OF USE|Simple user interface, designed for novice users|||
 |INCENTIVISED WORKER ENGAGEMENT|Access to a greater number of opportunities, and key features such as free professional resume builder and in-app worksite messaging|||
