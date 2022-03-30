@@ -1,5 +1,9 @@
 ./rereadywhenyouare*
 *.zip
 *.pdf
+*.docm
 *.docx
+*.doc
+*.msg
+*.webp
 *.pptx
