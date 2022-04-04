@@ -17,7 +17,7 @@ Months [^1] | 1 - 2 | 3 - 4 | 5 - 6 | 6 onward
 
  > All $ amounts are quoted ex-GST.
  
- [^1]: 1L, [Link](https://google.com).
+ [^1]: working in blocks of 2 months to deliver functionality, the expected running costs
  [^2]: per day indicates between 8 - 10 hours.
  [^3]: where the work is less than 4 hours, we will charge the per hour rate.
  [^4]: assuming full 40 - 60 hour week
