@@ -35,7 +35,7 @@ This is a sampler of how your clients might create a project that they're sourci
 This is an example of how the details of a job posting could look.
 
 - ![](sean/images/job-postings-detail.png)
-- ![New Applicant]()
+
 
 ### New Applicant
 The following two screens represent a sample of the data that your XX would collect. This
