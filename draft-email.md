@@ -15,7 +15,7 @@ I take heart from a European centric article [Europe’s budding recruitment tec
 
 
 
-- In a nutshell, what I suggest for a proof of concept (prototype) is outlined in this[link](./prototype-proposal). 
+- In a nutshell, what I suggest for a proof of concept (prototype) is outlined in [this link](./prototype-proposal). 
 - If you were to utilise my company for the development of this prototype, the manner in which we charge is outlined in [the attached](./development-charging.md)
 
 

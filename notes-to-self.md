@@ -69,3 +69,13 @@ If you want to compare a feature’s performance against what users really want,
 In a nutshell, MVP in software development refers to building an app with enough functionality to attract early adopters. As soon as feedback from pioneer users is received, the software development team knows where to improve or iterate the product. Providing the necessary information about the state of your product in short terms is one of the main advantages of minimum viable product.
 
 
+### napkin-1
+- Internal talent search
+- Onboarding
+- Candidate profiles
+  - auto upload into pf for HR
+  - workflow
+  - review seek mobile forms.
+
+- Accelerating Business Impacts
+- Contingent Employment
